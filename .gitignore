@@ -1,5 +1,5 @@
 # Ignoring node modules
 
-/node_modules
-/backend/node_modules
-/task-manager/node_modules
+node_modules
+backend/node_modules
+task-manager/node_modules
